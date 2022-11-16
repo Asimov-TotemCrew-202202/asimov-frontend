@@ -11,3 +11,5 @@ This repository contains the frontend for the asimov project
 
 ## Documentation
 * version 1.0.0 15/11/2022
+
+See [Frontend deployed](https://asimov-agile-202202.web.app/).
